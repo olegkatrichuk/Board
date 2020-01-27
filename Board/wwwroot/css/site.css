@@ -1,0 +1,23 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+html, body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    background: aliceblue;
+    color: darkgray;
+    margin: 0
+}
+
+h1, h2 {
+    font-weight: 200;
+    margin: 0.4em 0;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+.imagezise {
+    height: 200px;
+    width: auto
+}
